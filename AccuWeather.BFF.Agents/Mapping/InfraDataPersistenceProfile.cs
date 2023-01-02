@@ -1,9 +1,11 @@
-﻿using AccuWeather.BFF.Models.Locations.ApiResponses;
+﻿using System.Diagnostics.CodeAnalysis;
+using AccuWeather.BFF.Models.Locations.ApiResponses;
 using AccuWeather.BFF.Models.Locations.Response;
 using AutoMapper;
 
 namespace AccuWeather.BFF.Agents.Mapping;
 
+[ExcludeFromCodeCoverage]
 public class InfraDataPersistenceProfile : Profile
 {
     public InfraDataPersistenceProfile()
