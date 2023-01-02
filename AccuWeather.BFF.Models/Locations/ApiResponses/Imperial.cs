@@ -1,5 +1,8 @@
-﻿namespace AccuWeather.BFF.Models.Locations.ApiResponses;
+﻿using System.Diagnostics.CodeAnalysis;
 
+namespace AccuWeather.BFF.Models.Locations.ApiResponses;
+
+[ExcludeFromCodeCoverage]
 public class Imperial
 {
     public double Value { get; set; }

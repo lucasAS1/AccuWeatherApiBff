@@ -4,10 +4,8 @@ D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Servic
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\bin\Debug\net6.0\AccuWeather.BFF.Services.pdb
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\bin\Debug\net6.0\AccuWeather.BFF.Interfaces.dll
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\bin\Debug\net6.0\AccuWeather.BFF.Models.dll
-D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\bin\Debug\net6.0\AutoMapper.dll
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\bin\Debug\net6.0\AccuWeather.BFF.Interfaces.pdb
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\bin\Debug\net6.0\AccuWeather.BFF.Models.pdb
-D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\bin\Debug\net6.0\AutoMapper.xml
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\obj\Debug\net6.0\AccuWeather.BFF.Services.csproj.AssemblyReference.cache
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\obj\Debug\net6.0\AccuWeather.BFF.Services.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Services\obj\Debug\net6.0\AccuWeather.BFF.Services.AssemblyInfoInputs.cache

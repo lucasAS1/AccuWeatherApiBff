@@ -1511,7 +1511,8 @@
       },
       "AccuWeather.BFF.Services/1.0.0": {
         "dependencies": {
-          "AccuWeather.BFF.Interfaces": "1.0.0"
+          "AccuWeather.BFF.Interfaces": "1.0.0",
+          "AutoMapper": "12.0.0"
         },
         "runtime": {
           "AccuWeather.BFF.Services.dll": {}

@@ -1,4 +1,5 @@
-﻿using AccuWeather.BFF.Agents;
+﻿using System.Diagnostics.CodeAnalysis;
+using AccuWeather.BFF.Agents;
 using AccuWeather.BFF.Interfaces.Agents;
 using AccuWeather.BFF.Interfaces.Services;
 using AccuWeather.BFF.Services;
@@ -6,6 +7,7 @@ using Autofac;
 
 namespace AccuWeather.BFF.WebApi.DI;
 
+[ExcludeFromCodeCoverage]
 public class IocModule : Module
 {
     protected override void Load(ContainerBuilder builder)
