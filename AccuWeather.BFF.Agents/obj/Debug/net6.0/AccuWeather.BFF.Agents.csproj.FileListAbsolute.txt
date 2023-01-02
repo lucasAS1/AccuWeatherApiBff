@@ -1,0 +1,17 @@
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\bin\Debug\net6.0\AccuWeather.BFF.Agents.deps.json
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\bin\Debug\net6.0\AccuWeather.BFF.Agents.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\bin\Debug\net6.0\ref\AccuWeather.BFF.Agents.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\bin\Debug\net6.0\AccuWeather.BFF.Agents.pdb
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\bin\Debug\net6.0\AccuWeather.BFF.Interfaces.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\bin\Debug\net6.0\AccuWeather.BFF.Models.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\bin\Debug\net6.0\AccuWeather.BFF.Interfaces.pdb
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\bin\Debug\net6.0\AccuWeather.BFF.Models.pdb
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\AccuWeather.BFF.Agents.csproj.AssemblyReference.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\AccuWeather.BFF.Agents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\AccuWeather.BFF.Agents.AssemblyInfoInputs.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\AccuWeather.BFF.Agents.AssemblyInfo.cs
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\AccuWeather.BFF.Agents.csproj.CoreCompileInputs.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\AccuWeather.BFF.Agents.csproj.CopyComplete
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\AccuWeather.BFF.Agents.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\ref\AccuWeather.BFF.Agents.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Agents\obj\Debug\net6.0\AccuWeather.BFF.Agents.pdb

@@ -1,0 +1,12 @@
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\bin\Debug\net6.0\AccuWeather.BFF.Models.deps.json
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\bin\Debug\net6.0\AccuWeather.BFF.Models.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\bin\Debug\net6.0\ref\AccuWeather.BFF.Models.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\bin\Debug\net6.0\AccuWeather.BFF.Models.pdb
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\obj\Debug\net6.0\AccuWeather.BFF.Models.csproj.AssemblyReference.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\obj\Debug\net6.0\AccuWeather.BFF.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\obj\Debug\net6.0\AccuWeather.BFF.Models.AssemblyInfoInputs.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\obj\Debug\net6.0\AccuWeather.BFF.Models.AssemblyInfo.cs
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\obj\Debug\net6.0\AccuWeather.BFF.Models.csproj.CoreCompileInputs.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\obj\Debug\net6.0\AccuWeather.BFF.Models.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\obj\Debug\net6.0\ref\AccuWeather.BFF.Models.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Models\obj\Debug\net6.0\AccuWeather.BFF.Models.pdb

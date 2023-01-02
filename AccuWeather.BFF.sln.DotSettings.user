@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/SweaWarningsMode/@EntryValue">ShowAndRun</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=38286eb6_002D7886_002D45ae_002Da667_002Dfe66080d9cd4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldGetCityAndCurrentConditionCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BA499446-1899-48D5-ADD0-BDA84ED0A77A::net6.0::AccuWeather.BFF.Application.UnitTests.WeatherForecastControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50D8D8B2-7413-43E1-B87B-4E56C3F677CE::net6.0::AccuWeather.BFF.Domain.UnitTests.AccuWeatherServiceTests.ShouldGetCitiesByTextAsyncCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50D8D8B2-7413-43E1-B87B-4E56C3F677CE::net6.0::AccuWeather.BFF.Domain.UnitTests.AccuWeatherServiceTests.ShouldGetCurrentConditionsByLocationKeyAsyncCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

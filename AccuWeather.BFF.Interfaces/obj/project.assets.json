@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AccuWeather.BFF.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AccuWeather.BFF.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccuWeather.BFF.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccuWeather.BFF.Models/1.0.0": {
+      "type": "project",
+      "path": "../AccuWeather.BFF.Models/AccuWeather.BFF.Models.csproj",
+      "msbuildProject": "../AccuWeather.BFF.Models/AccuWeather.BFF.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AccuWeather.BFF.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lucas\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projetos C# dotNet\\API BFF AccuWeather\\AccuWeather.BFF\\AccuWeather.BFF.Interfaces\\AccuWeather.BFF.Interfaces.csproj",
+      "projectName": "AccuWeather.BFF.Interfaces",
+      "projectPath": "D:\\Projetos C# dotNet\\API BFF AccuWeather\\AccuWeather.BFF\\AccuWeather.BFF.Interfaces\\AccuWeather.BFF.Interfaces.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos C# dotNet\\API BFF AccuWeather\\AccuWeather.BFF\\AccuWeather.BFF.Interfaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "D:\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Projetos C# dotNet\\API BFF AccuWeather\\AccuWeather.BFF\\AccuWeather.BFF.Models\\AccuWeather.BFF.Models.csproj": {
+              "projectPath": "D:\\Projetos C# dotNet\\API BFF AccuWeather\\AccuWeather.BFF\\AccuWeather.BFF.Models\\AccuWeather.BFF.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

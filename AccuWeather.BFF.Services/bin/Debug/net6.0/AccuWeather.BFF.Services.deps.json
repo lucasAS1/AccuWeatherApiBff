@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AccuWeather.BFF.Services/1.0.0": {
+        "dependencies": {
+          "AccuWeather.BFF.Interfaces": "1.0.0",
+          "AutoMapper": "12.0.0.0"
+        },
+        "runtime": {
+          "AccuWeather.BFF.Services.dll": {}
+        }
+      },
+      "AccuWeather.BFF.Interfaces/1.0.0": {
+        "dependencies": {
+          "AccuWeather.BFF.Models": "1.0.0"
+        },
+        "runtime": {
+          "AccuWeather.BFF.Interfaces.dll": {}
+        }
+      },
+      "AccuWeather.BFF.Models/1.0.0": {
+        "runtime": {
+          "AccuWeather.BFF.Models.dll": {}
+        }
+      },
+      "AutoMapper/12.0.0.0": {
+        "runtime": {
+          "AutoMapper.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccuWeather.BFF.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccuWeather.BFF.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccuWeather.BFF.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoMapper/12.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

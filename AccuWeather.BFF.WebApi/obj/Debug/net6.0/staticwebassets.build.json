@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3bsZ9dOPjoFPqt9pj5pVUGFqNzFhiNErURlwGlmAuR0=",
+  "Source": "AccuWeather.BFF.WebApi",
+  "BasePath": "_content/AccuWeather.BFF.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

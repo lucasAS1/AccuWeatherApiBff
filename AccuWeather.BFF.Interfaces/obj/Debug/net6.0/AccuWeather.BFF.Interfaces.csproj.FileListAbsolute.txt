@@ -1,0 +1,15 @@
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\bin\Debug\net6.0\AccuWeather.BFF.Interfaces.deps.json
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\bin\Debug\net6.0\AccuWeather.BFF.Interfaces.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\bin\Debug\net6.0\ref\AccuWeather.BFF.Interfaces.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\bin\Debug\net6.0\AccuWeather.BFF.Interfaces.pdb
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\bin\Debug\net6.0\AccuWeather.BFF.Models.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\bin\Debug\net6.0\AccuWeather.BFF.Models.pdb
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\AccuWeather.BFF.Interfaces.csproj.AssemblyReference.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\AccuWeather.BFF.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\AccuWeather.BFF.Interfaces.AssemblyInfoInputs.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\AccuWeather.BFF.Interfaces.AssemblyInfo.cs
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\AccuWeather.BFF.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\AccuWeather.BFF.Interfaces.csproj.CopyComplete
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\AccuWeather.BFF.Interfaces.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\ref\AccuWeather.BFF.Interfaces.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Interfaces\obj\Debug\net6.0\AccuWeather.BFF.Interfaces.pdb
