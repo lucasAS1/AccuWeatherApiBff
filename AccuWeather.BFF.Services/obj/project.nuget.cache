@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2oblJCOcmU/kWLuUQJ5T/kFbpFZuNAkJKczpIvlKqwqvga70FiVmA2TmwcCTJtuL9HIPvqbHaUE1O6PNLE9JxQ==",
+  "dgSpecHash": "SycuaIxez2SnrZUbI3wLLrdv4I6xsuxxHiLej5scp/z+Kc6itObKIfIgoL+p/mXuGLV8KldgnqNxA7O/0JRuLw==",
   "success": true,
   "projectFilePath": "D:\\Projetos C# dotNet\\API BFF AccuWeather\\AccuWeather.BFF\\AccuWeather.BFF.Services\\AccuWeather.BFF.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

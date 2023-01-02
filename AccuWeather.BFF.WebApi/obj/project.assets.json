@@ -271,7 +271,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "AccuWeather.BFF.Interfaces": "1.0.0"
+          "AccuWeather.BFF.Interfaces": "1.0.0",
+          "AutoMapper": "12.0.0"
         },
         "compile": {
           "bin/placeholder/AccuWeather.BFF.Services.dll": {}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8ZAEm+K+5M8wMMQVnZ3B5PmNJJJ8qYInmWJvw8gpdhdBg/UGbKOJ4HNWa3PdP6RdotEHV+AKl69Pe/uvflqXrA==",
+  "dgSpecHash": "ejSB/+P8Of9CGxXnzHlta6GDxDB8PhXpcuhaLtDQd9pgtGSMHt/uk0XwTTkEP0yVit6LOjphqdvLSoSFmo1mfg==",
   "success": true,
   "projectFilePath": "D:\\Projetos C# dotNet\\API BFF AccuWeather\\AccuWeather.BFF\\AccuWeather.BFF.Domain.UnitTests\\AccuWeather.BFF.Domain.UnitTests.csproj",
   "expectedPackageFiles": [
