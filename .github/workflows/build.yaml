@@ -50,5 +50,5 @@ jobs:
         run: |
           ./.sonar/scanner/dotnet-sonarscanner begin /k:"lucasAS1_AccuWeatherApiBff" /o:"lucasas1" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.dotcover.reportsPaths=dotCover.Output.html
           dotnet build --no-incremental
-          dotnet dotcover test --dcReportType=HTML
+          dotnet dotcover test --dcReportType=HTML --dcAttributeFilters=*.ExcludeFromCodeCoverage --dcExcludeFileMasks=Program.cs
           ./.sonar/scanner/dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
