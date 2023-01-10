@@ -27,7 +27,7 @@ public class InfraDataPersistenceProfile : Profile
         CreateMap<CurrentConditionsResponse, TempoResponse>(MemberList.None)
             .ForMember(
                 dest => dest.Temperature,
-                opts => opts.MapFrom(source => source.Temperature!.Metric.Value))
+                opts => opts.MapFrom(source => source.Temperature!.Metric!.Value))
             .ReverseMap();
     }
 }
