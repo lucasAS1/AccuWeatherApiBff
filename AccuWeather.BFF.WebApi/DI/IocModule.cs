@@ -16,12 +16,12 @@ public class IocModule : Module
         ConfigureDomainLayer(builder);
     }
 
-    private void ConfigureInfrastructureLayer(ContainerBuilder builder)
+    private static void ConfigureInfrastructureLayer(ContainerBuilder builder)
     {
         builder.RegisterType<AccuWeatherApiAgent>().As<IAccuWeatherApiAgent>();
     }
 
-    private void ConfigureDomainLayer(ContainerBuilder builder)
+    private static void ConfigureDomainLayer(ContainerBuilder builder)
     {
         builder.RegisterType<AccuWeatherService>().As<IAccuWeatherService>();
     }

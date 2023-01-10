@@ -6,6 +6,6 @@ namespace AccuWeather.BFF.Models.Locations.ApiResponses;
 public class Metric
 {
     public readonly double Value;
-    public readonly string Unit;
+    public readonly string? Unit;
     public readonly int UnitType;
 }

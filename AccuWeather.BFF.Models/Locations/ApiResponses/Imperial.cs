@@ -6,6 +6,6 @@ namespace AccuWeather.BFF.Models.Locations.ApiResponses;
 public class Imperial
 {
     public readonly double Value;
-    public readonly string Unit;
+    public readonly string? Unit;
     public readonly int UnitType;
 }
