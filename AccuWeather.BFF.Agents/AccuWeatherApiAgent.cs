@@ -12,8 +12,8 @@ namespace AccuWeather.BFF.Agents;
 [ExcludeFromCodeCoverage]
 public class AccuWeatherApiAgent : IAccuWeatherApiAgent
 {
-    private string _apiToken;
-    private string _apiUrl;
+    private readonly string _apiToken;
+    private readonly string _apiUrl;
 
     public AccuWeatherApiAgent(IOptions<ApiSettings>config)
     {

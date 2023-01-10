@@ -5,6 +5,6 @@ namespace AccuWeather.BFF.Models.Locations.Response;
 [ExcludeFromCodeCoverage]
 public class CidadeResponse
 {
-    public string CityKey;
-    public string CityName;
+    public readonly string CityKey;
+    public readonly string CityName;
 }

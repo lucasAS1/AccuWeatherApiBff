@@ -5,6 +5,6 @@ namespace AccuWeather.BFF.Models.Locations.ApiResponses;
 [ExcludeFromCodeCoverage]
 public class Temperature
 {
-    public Metric Metric;
-    public Imperial Imperial;
+    public readonly Metric Metric;
+    public readonly Imperial Imperial;
 }
