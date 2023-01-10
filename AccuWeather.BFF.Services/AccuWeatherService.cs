@@ -16,7 +16,7 @@ public class AccuWeatherService : IAccuWeatherService
         _mapper = mapper;
     }
 
-    public async Task<List<CidadeResponse>> GetCitiesByTextAsync(string city)
+    public async Task<List<CidadeResponse>> GetCitiesByTextAsync(string? city)
     {
         var locationResponse = await _apiAgent.GetLocationsByCity(city);
 

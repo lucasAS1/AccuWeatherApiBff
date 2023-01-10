@@ -12,8 +12,8 @@ namespace AccuWeather.BFF.Agents;
 [ExcludeFromCodeCoverage]
 public class AccuWeatherApiAgent : IAccuWeatherApiAgent
 {
-    private readonly string _apiToken;
-    private readonly string _apiUrl;
+    private readonly string? _apiToken;
+    private readonly string? _apiUrl;
 
     public AccuWeatherApiAgent(IOptions<ApiSettings>config)
     {
@@ -21,10 +21,10 @@ public class AccuWeatherApiAgent : IAccuWeatherApiAgent
         _apiUrl = config.Value.UrlAccuWeather;
     }
     
-    public async Task<List<CitySearchResponse>> GetLocationsByCity(string locationText)
+    public async Task<List<CitySearchResponse>> GetLocationsByCity(string? locationText)
     {
         var url = _apiUrl + "/locations/v1/cities/search";
-        var queryValues = new Dictionary<string,string>
+        var queryValues = new Dictionary<string, string?>
         {
             {"apikey", _apiToken},
             { "q", locationText },
@@ -39,15 +39,15 @@ public class AccuWeatherApiAgent : IAccuWeatherApiAgent
                     .SetQueryParams(queryValues)
                     .WithTimeout(5)
                     .GetAsync()
-            ).ReceiveJson<List<CitySearchResponse>>();
+            ).ReceiveJson<List<CitySearchResponse?>>();
 
-        return result;
+        return result!;
     }
     
     public async Task<CurrentConditionsResponse> GetLocationCurrentConditions(string cityKey)
     {
         var url = _apiUrl + "/currentconditions/v1/";
-        var queryValues = new Dictionary<string,string>
+        var queryValues = new Dictionary<string, string?>
         {
             {"apikey", _apiToken},
             { "language", "pt-br" }
@@ -62,8 +62,8 @@ public class AccuWeatherApiAgent : IAccuWeatherApiAgent
                     .SetQueryParams(queryValues)
                     .WithTimeout(5)
                     .GetAsync()
-            ).ReceiveJson<List<CurrentConditionsResponse>>();
+            ).ReceiveJson<List<CurrentConditionsResponse?>>();
 
-        return result.First();
+        return result.First()!;
     }
 }
