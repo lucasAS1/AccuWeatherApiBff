@@ -16,6 +16,7 @@ builder.Services.AddAutoMapper(typeof(InfraDataPersistenceProfile));
 builder.Configuration
     .AddJsonFile("appsettings.json", reloadOnChange: true, optional: true)
     .AddEnvironmentVariables();
+
 builder.Services.Configure<ApiSettings>(builder.Configuration.GetSection("Settings"));
 builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => containerBuilder.RegisterModule(new IocModule()));
 
