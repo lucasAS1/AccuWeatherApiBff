@@ -53,7 +53,6 @@ jobs:
           dotnet dotcover test --dcReportType=HTML --dcAttributeFilters=*.ExcludeFromCodeCoverage --dcExcludeFileMasks=Program.cs
           ./.sonar/scanner/dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
   Publish:
-    build:
       runs-on: ubuntu-latest
       
       steps:
