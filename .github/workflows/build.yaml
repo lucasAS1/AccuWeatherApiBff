@@ -70,7 +70,7 @@ jobs:
             password: ${{ github.token }}
         
         - name: Lowercase the repo name and username
-            run: echo "REPO=${GITHUB_REPOSITORY,,}" >>${GITHUB_ENV}
+            run: echo ::set-env name=REPO::$(echo ${{ github.repository }} | tr '[:upper:]' '[:lower:]')
 
               - name: Build and push container image to registry
                 uses: docker/build-push-action@v2
