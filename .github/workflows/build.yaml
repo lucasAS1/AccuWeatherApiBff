@@ -74,7 +74,7 @@ jobs:
         - name: Docker Build and Push
           uses: docker/build-push-action@v1
           with:
-            registry: docker.pkg.github.com
+            registry: ghcr.io
             repository: ${{ env.IMAGE_REPOSITORY }}/my-image
             username: ${{ github.actor }}
             password: ${{ github.token }}
