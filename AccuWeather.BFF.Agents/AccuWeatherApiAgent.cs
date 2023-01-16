@@ -21,7 +21,7 @@ public class AccuWeatherApiAgent : IAccuWeatherApiAgent
         _apiUrl = config.Value.UrlAccuWeather;
     }
     
-    public async Task<List<CitySearchResponse>> GetLocationsByCity(string? locationText)
+    public async Task<List<CitySearchResponse>> GetLocationsByCity(string locationText)
     {
         var url = _apiUrl + "/locations/v1/cities/search";
         var queryValues = new Dictionary<string, string?>
@@ -39,9 +39,9 @@ public class AccuWeatherApiAgent : IAccuWeatherApiAgent
                     .SetQueryParams(queryValues)
                     .WithTimeout(5)
                     .GetAsync()
-            ).ReceiveJson<List<CitySearchResponse?>>();
+            ).ReceiveJson<List<CitySearchResponse>>();
 
-        return result!;
+        return result;
     }
     
     public async Task<CurrentConditionsResponse> GetLocationCurrentConditions(string cityKey)
@@ -62,8 +62,8 @@ public class AccuWeatherApiAgent : IAccuWeatherApiAgent
                     .SetQueryParams(queryValues)
                     .WithTimeout(5)
                     .GetAsync()
-            ).ReceiveJson<List<CurrentConditionsResponse?>>();
+            ).ReceiveJson<List<CurrentConditionsResponse>>();
 
-        return result.First()!;
+        return result.First();
     }
 }

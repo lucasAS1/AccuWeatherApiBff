@@ -5,7 +5,7 @@ namespace AccuWeather.BFF.Models.Locations.ApiResponses;
 [ExcludeFromCodeCoverage]
 public class Imperial
 {
-    public readonly double Value;
-    public readonly string? Unit;
-    public readonly int UnitType;
+    public double Value { get; set; }
+    public string? Unit { get; set; }
+    public int UnitType { get; set; }
 }

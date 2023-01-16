@@ -5,11 +5,11 @@ namespace AccuWeather.BFF.Models.Locations.ApiResponses;
 [ExcludeFromCodeCoverage]
 public class AdministrativeArea
 {
-    public readonly string? ID;
-    public readonly string? LocalizedName;
-    public readonly string? EnglishName;
-    public readonly int Level;
-    public readonly string? LocalizedType;
-    public readonly string? EnglishType;
-    public readonly string? CountryID;
+    public string ID { get; set; }
+    public string LocalizedName { get; set; }
+    public string EnglishName { get; set; }
+    public int Level { get; set; }
+    public string LocalizedType { get; set; }
+    public string EnglishType { get; set; }
+    public string CountryID { get; set; }
 }

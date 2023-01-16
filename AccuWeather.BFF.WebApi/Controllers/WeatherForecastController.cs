@@ -15,12 +15,12 @@ public class WeatherForecastController : ControllerBase
     }
 
     [HttpGet("GetCityAndCurrentCondition")]
-    public async Task<IActionResult> GetCityAndCurrentCondition([FromQuery]string? cityName)
+    public async Task<IActionResult> GetCityAndCurrentCondition([FromQuery]string cityName)
     {
         var cityResponse = await _accuWeatherService.GetCitiesByTextAsync(cityName);
-        var result = await _accuWeatherService.GetCurrentConditionsByLocationKeyAsync(cityResponse.First().CityKey!);
+        var result = await _accuWeatherService.GetCurrentConditionsByLocationKeyAsync(cityResponse.First().CityKey);
         
-        return Ok(result);
+        return new JsonResult(result);
     }
     
     [HttpGet("GetCityCurrentCondition")]
@@ -28,14 +28,14 @@ public class WeatherForecastController : ControllerBase
     {
         var result = await _accuWeatherService.GetCurrentConditionsByLocationKeyAsync(cityKey);
         
-        return Ok(result);
+        return new JsonResult(result);
     }
 
     [HttpGet("GetCityKey")]
-    public async Task<IActionResult> GetCityKey([FromQuery]string? cityName)
+    public async Task<IActionResult> GetCityKey([FromQuery]string cityName)
     {
         var result = await _accuWeatherService.GetCitiesByTextAsync(cityName);
         
-        return Ok(result);
+        return new JsonResult(result);
     }
 }
