@@ -122,3 +122,6 @@ D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Domain
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Domain.UnitTests\obj\Debug\net6.0\ref\AccuWeather.BFF.Domain.UnitTests.dll
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Domain.UnitTests\obj\Debug\net6.0\AccuWeather.BFF.Domain.UnitTests.pdb
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Domain.UnitTests\obj\Debug\net6.0\AccuWeather.BFF.Domain.UnitTests.genruntimeconfig.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Domain.UnitTests\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Domain.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Domain.UnitTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

@@ -20,7 +20,7 @@ public class WeatherForecastController : ControllerBase
         var cityResponse = await _accuWeatherService.GetCitiesByTextAsync(cityName);
         var result = await _accuWeatherService.GetCurrentConditionsByLocationKeyAsync(cityResponse.First().CityKey);
         
-        return new JsonResult(result);
+        return Ok(result);
     }
     
     [HttpGet("GetCityCurrentCondition")]
@@ -28,7 +28,7 @@ public class WeatherForecastController : ControllerBase
     {
         var result = await _accuWeatherService.GetCurrentConditionsByLocationKeyAsync(cityKey);
         
-        return new JsonResult(result);
+        return Ok(result);
     }
 
     [HttpGet("GetCityKey")]
@@ -36,6 +36,6 @@ public class WeatherForecastController : ControllerBase
     {
         var result = await _accuWeatherService.GetCitiesByTextAsync(cityName);
         
-        return new JsonResult(result);
+        return Ok(result);
     }
 }

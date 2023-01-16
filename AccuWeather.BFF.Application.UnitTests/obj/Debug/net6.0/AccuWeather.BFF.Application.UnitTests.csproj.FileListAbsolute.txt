@@ -136,3 +136,11 @@ D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Applic
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\obj\Debug\net6.0\ref\AccuWeather.BFF.Application.UnitTests.dll
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\obj\Debug\net6.0\AccuWeather.BFF.Application.UnitTests.pdb
 D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\obj\Debug\net6.0\AccuWeather.BFF.Application.UnitTests.genruntimeconfig.cache
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\Projetos C# dotNet\API BFF AccuWeather\AccuWeather.BFF\AccuWeather.BFF.Application.UnitTests\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
